@@ -21,7 +21,7 @@ function App() {
         
         <Carousel 
           id="webSkillsCarousel" 
-          value1="/gifs/gifs/mongo_gif.gif" 
+          value1="gifs/gifs/mongo_gif.gif" 
           value2="gifs/gifs/express_gif.gif" 
           value3="gifs/gifs/React_gif.gif" 
           value4="gifs/gifs/Node_gif.gif" 
