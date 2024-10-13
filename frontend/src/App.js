@@ -21,25 +21,25 @@ function App() {
         
         <Carousel 
           id="webSkillsCarousel" 
-          value1="gifs\gifs\mongo_gif.gif" 
-          value2="gifs\gifs\express_gif.gif" 
-          value3="gifs\gifs\React_gif.gif" 
-          value4="gifs\gifs\Node_gif.gif" 
-          value5="gifs\gifs\MYSQL_GIF.gif"
+          value1="/gifs/gifs/mongo_gif.gif" 
+          value2="gifs/gifs/express_gif.gif" 
+          value3="gifs/gifs/React_gif.gif" 
+          value4="gifs/gifs/Node_gif.gif" 
+          value5="gifs/gifs/MYSQL_GIF.gif"
         />
         <div className='text1-container'><h1 className='text1'>Programming Languages</h1></div>
         <Carousel 
           id="programmingLanguagesCarousel" 
-          value1="gifs\gifs\C_gif.gif" 
-          value2="gifs\gifs\c++_gif.gif" 
-          value3="gifs\gifs\java_gif.gif" 
-          value4="gifs\gifs\python_gif.gif" 
+          value1="gifs/gifs/C_gif.gif" 
+          value2="gifs/gifs/c++_gif.gif" 
+          value3="gifs/gifs/java_gif.gif" 
+          value4="gifs/gifs/python_gif.gif" 
         />
         <div className='text1-container'><h1 className='text1'>Frameworks</h1></div>
         <Carousel 
           id="FrameworksCarousel" 
-          value1="gifs\gifs\tailwind_gif.gif" 
-          value2="gifs\gifs\bootstrap_gif.gif" 
+          value1="gifs/gifs/tailwind_gif.gif" 
+          value2="gifs/gifs/bootstrap_gif.gif" 
         />
         <div className='text1-container'><h1 className='text1'>Contact me</h1></div>
         <Socialmediabox/>
