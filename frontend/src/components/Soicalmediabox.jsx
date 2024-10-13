@@ -40,7 +40,7 @@ const Socialmediabox = () => {
             }}
           >
             <img 
-              src={`gifs/gifs/${img.name}`} 
+              src={`/${img.name}`} 
               className="card-img-top" 
               alt={`${img.title}`} 
               title={img.title}
